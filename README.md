@@ -1,7 +1,7 @@
 # Astro Starter Kit: Basics
 
 ```sh
-npm create astro@latest -- --template basics
+npm create astro@latest 
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
@@ -50,5 +50,4 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+designer By NilsPineda: [Nils Pineda](https://wa.me/3217317275)
